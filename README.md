@@ -30,7 +30,15 @@ A list of links to resources used throughout this course is available on the [Re
 
 ### Git
 
+- https://docs.github.com/en
+
 - https://devconnected.com/how-to-switch-branch-on-git/
+
+- https://intellipaat.com/community/3649/git-fetch-all-branches-how-to-fetch-all-git-branches
+
+## CSS Gotchas
+
+- https://www.impressivewebs.com/width-100-percent-css/
 
 ### Misc
 
