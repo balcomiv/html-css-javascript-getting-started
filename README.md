@@ -28,6 +28,12 @@ A list of links to resources used throughout this course is available on the [Re
 
 ## Helpful Links
 
+### Git
+
+- https://devconnected.com/how-to-switch-branch-on-git/
+
+### Misc
+
 - https://docs.emmet.io/abbreviations/syntax/
 
 - http://validator.w3.org/
