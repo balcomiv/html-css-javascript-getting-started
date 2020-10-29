@@ -25,3 +25,72 @@ git clone https://github.com/craigshoemaker/html-css-javascript-getting-started
 ## Resources
 
 A list of links to resources used throughout this course is available on the [Resources](resources.md) page.
+
+## Helpful Links
+
+- https://docs.emmet.io/abbreviations/syntax/
+
+- http://validator.w3.org/
+
+## Inheritable Properties (https://www.w3.org/TR/CSS21/propidx.html)
+
+azimuth
+border-collapse
+border-spacing
+caption-side
+color
+cursor
+direction
+elevation
+empty-cells
+font-family
+font-size
+font-style
+font-variant
+font-weight
+font
+letter-spacing
+line-height
+list-style-image
+list-style-position
+list-style-type
+list-style
+orphans
+pitch-range
+pitch
+quotes
+richness
+speak-header
+speak-numeral
+speak-punctuation
+speak
+speech-rate
+stress
+text-align
+text-indent
+text-transform
+visibility
+voice-family
+volume
+white-space
+widows
+word-spacing
+
+## Inherited Type (https://dev.to/muyunyun/inherited-and-non-inherited-in-css-mi4)
+
+Inherited types in css, they are listed as follow:
+
+- Font Type: font-style、font-variant、font-weight、font-stretch、font-size、font-family、color、line-height;
+- Space Type: letter-spacing、word-spacing、white-space;
+- Letter Type: text-align、text-indent、text-shadow、text-transform;
+- List Type: list-style、list-style-type、list-style-position;
+- Others: visibility、cursor;
+
+## Non-Inherited Type
+
+In the opposite of inherited type, the non-inherited types are listed as follow:
+
+- Layout Type: float、position、left、right、top、bottom、z-index、display
+- Box Type: width、max-width、min-width、height、max-height、min-height、margin、padding、border;
+- Background Type: background-size、background-image、background-clip、background-color、background-origin、background-position、background-repeat;
+- Others: overflow、text-overflow、vertical-align;
