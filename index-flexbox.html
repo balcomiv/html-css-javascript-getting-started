@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      .columns {
+        border: 1px solid #39f;
+        display: flex;
+      }
+
+      .columns > div {
+        border: 1px solid #ccc;
+        flex: 1;
+      }
+
+      .columns > div:nth-of-type(2) {
+        flex: 2;
+      }
+
+      /* Flex: 1; Divide up all space evenly, 
+                    and give each, one portion of space*/
+    </style>
+    <title>working with Cascading Style Sheets (CSS)</title>
+  </head>
+  <body>
+    <div class="columns">
+      <div>Column 1</div>
+      <div>column 2</div>
+      <div>Column 3</div>
+    </div>
+  </body>
+</html>

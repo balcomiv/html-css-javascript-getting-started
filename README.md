@@ -46,6 +46,8 @@ A list of links to resources used throughout this course is available on the [Re
 
 - http://validator.w3.org/
 
+- caniuse.com
+
 ## Inheritable Properties (https://www.w3.org/TR/CSS21/propidx.html)
 
 azimuth
@@ -95,8 +97,11 @@ word-spacing
 Inherited types in css, they are listed as follow:
 
 - Font Type: font-style、font-variant、font-weight、font-stretch、font-size、font-family、color、line-height;
-- Space Type: letter-spacing、word-spacing、white-space;
+- Space Type: letter-spacing、word-spacing、
+  white-space;
+
 - Letter Type: text-align、text-indent、text-shadow、text-transform;
+
 - List Type: list-style、list-style-type、list-style-position;
 - Others: visibility、cursor;
 
@@ -106,5 +111,14 @@ In the opposite of inherited type, the non-inherited types are listed as follow:
 
 - Layout Type: float、position、left、right、top、bottom、z-index、display
 - Box Type: width、max-width、min-width、height、max-height、min-height、margin、padding、border;
+
 - Background Type: background-size、background-image、background-clip、background-color、background-origin、background-position、background-repeat;
+
 - Others: overflow、text-overflow、vertical-align;
+
+Metting Notes:
+
+- turn on no implicit any
+- can we ban jasmine.createSpyObject<any>() yeah (turn it on)
+- code this, not that; start with index in the writing angular page, and have it link to its own page. I.E highlights, into that.
+-
