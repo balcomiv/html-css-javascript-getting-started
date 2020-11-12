@@ -30,6 +30,8 @@ A list of links to resources used throughout this course is available on the [Re
 
 ### Git
 
+- https://www.nobledesktop.com/learn/git/git-branches
+
 - https://docs.github.com/en
 
 - https://devconnected.com/how-to-switch-branch-on-git/
