@@ -28,6 +28,10 @@ A list of links to resources used throughout this course is available on the [Re
 
 ## Helpful Links
 
+### Course
+
+- https://github.com/craigshoemaker/html-css-javascript-getting-started
+
 ### Git
 
 - https://www.nobledesktop.com/learn/git/git-branches
